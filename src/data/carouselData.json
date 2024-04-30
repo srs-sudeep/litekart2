@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {
+      "url": "https://picsum.photos/seed/img1/600/400",
+      "title": "Image 1 for carousel"
+    },
+    {
+      "url": "https://picsum.photos/seed/img2/600/400",
+      "title": "Image 2 for carousel"
+    },
+    {
+      "url": "https://picsum.photos/seed/img3/600/400",
+      "title": "Image 3 for carousel"
+    }
+  ]
+}
